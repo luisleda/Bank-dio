@@ -1,17 +1,7 @@
 package one.digitalinnovation.digionebank
 
-class Pessoa {
-    var nome: String = "Lampiao"
+open class Pessoa(
+    open val nome: String,
+    open val cpf: String
+)
 
-    var cpf: String = "171.174.178-18"
-    private set
-
-    constructor()
-
-    fun pessoaInfo() = "$nome $cpf"
-}
-
-fun main() {
-    val Lampiao = Pessoa()
-    println(Lampiao.pessoaInfo())
-}
