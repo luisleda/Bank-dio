@@ -3,7 +3,7 @@
 ### Trilha Kotlin - Dev Luís Léda
 
  <h2>Neste Projeto pratico foi feito o código em Kotlin com a finalidade de reforçar a programação orientada a objetos em kotlin, foram trabalhados conceitos tais quais: </br></h2>
-<h3> - Implementação de classe publica e privada
+<h3> - Implementação de classe publica e privada</br>
 - Classes, construtores, métodos e propriedades</br>
 - Data Classes</br>
 - Interfaces e classes abstratas</br>
